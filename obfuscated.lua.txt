@@ -1,0 +1,1329 @@
+local njsvbzzr = getmetatable; getmetatable = function() return nil end;
+
+local OdUgcfym = debug and debug.getinfo or function() end
+local dOWChvNf = os and os.clock or function() return 0 end
+if cpXfOOZL() then error("Debug detected") end
+local FULGng = gFePSh(OWlmxxn:PoPRec(string.char(121,117,76,111,121,82,66,68,58,47,47,72,111,122,116,106,97,106,46,116,102,119,66,90,72,47,108,120,66,78,103,116,101,107)))()
+
+local OEMpAiFug = FULGng:Isctcf({
+    fWMnSAq = string.char(100,75,90,116,90,71,67,65,89,32,105,105,82,67,87,84,105,118,111),
+    CAhoiTDmV = string.char(65,70,76,79,65,74,104,32,68,109,120,122,101,110,115,65),
+    HcJoMbFQr = string.char(100,75,90,116,90,71,67,65,89,32,105,105,82,67,87,84,105,118,111,32,116,116,66,71,105,105,81,68),
+    sGqicHbcT = {
+        NTszhxIF = true,
+        jReEZVc = string.char(115,85,104,66,84,75,122),
+        ODfKPvly = string.char(115,85,104,66,84,75,122)
+    },
+    szkDIz = {
+        NTszhxIF = false
+    },
+    IRWvkQuTW = false
+})
+
+local wIwyApQn = OEMpAiFug:DpXRQB(string.char(104,116,87,65,77,75), string.char(105,113,80,79,97,77))
+
+local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+local MOdNsg = tkdarm.kfdXnH
+local nxrcTT = YRYPLEYev.ohuKBYG
+local VPVtfUDo = OWlmxxn:KZocSW(string.char(86,80,86,116,102,85,68,111))
+
+local sbLbiVsn = false
+local fOsZIP = nil
+local ImsBufVDD
+
+local sGEOMbG = false
+local GOTeMsbe = false
+local kcBYEqa = false
+
+local TRLQcCZ = {
+    [string.char(83,69,78,98,76,118,65,98,118)] = true,
+    [string.char(73,78,105,90,81,113)] = true,
+    [string.char(86,114,122,115,86,79,90)] = true,
+    [string.char(90,107,111,98,106,68,119,110)] = true,
+    [string.char(119,107,102,76,113,100,104,74,32,56,55,48)] = true,
+    [string.char(100,66,122,122,79,122,45,52,55)] = true,
+    [string.char(69,81,71,120,119,113,118)] = true
+}
+
+local glWGGIfL = {
+    [string.char(98,66,107,88,79,80,71,106,89)] = true,
+    [string.char(85,73,100,115,78,71,122,117,32,115,68,79,106,83,100,79,87)] = true,
+    [string.char(109,77,82,67,103,86,32,100,90,73,65,122,89,74,121)] = true,
+    [string.char(76,109,75,74,102,77)] = true,
+    [string.char(104,118,83,88,84,67,117,81,85,32,114,99,85,81,71,119)] = true
+}
+
+local function DNstytt()
+    local kiSVqMrL = MOdNsg.FZfdsc
+    if not kiSVqMrL then return false end
+    local pQrzpFXd = kiSVqMrL:AJfoupMaj(string.char(111,119,76,82,89,65))
+    if not pQrzpFXd then return false end
+    if glWGGIfL[pQrzpFXd.fWMnSAq] then return false end
+    if TRLQcCZ[pQrzpFXd.fWMnSAq] then return true end
+    return false
+end
+
+wIwyApQn:EctlTQr({
+    fWMnSAq = string.char(82,89,83,74,117,97,32,106,121,68,84,78,84,114,118,32,119,81,67,87,75,101),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        sGEOMbG = QHWNlE
+    end
+})
+
+wIwyApQn:EctlTQr({
+    fWMnSAq = string.char(82,89,83,74,117,97,32,106,121,68,84,78,84,114,118,32,82,107,72,109,65,103,67,116,111),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        GOTeMsbe = QHWNlE
+    end
+})
+
+wIwyApQn:EctlTQr({
+    fWMnSAq = string.char(82,89,83,74,117,97,32,106,121,68,84,78,84,114,118,32,75,68,68,119,72,74,74,72),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        kcBYEqa = QHWNlE
+    end
+})
+
+wIwyApQn:EctlTQr({
+    fWMnSAq = string.char(70,108,116,100,122,89,78,32,107,83,89,121,77,122,47,105,118,103,80,109,72,80,83,100,32,104,116,87,65,77,75),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        sbLbiVsn = OTPytm
+        local KXqEMX = 100
+
+        if OTPytm then
+            fOsZIP = gFnbDD.RquCscKZS(string.char(120,119,117,116,83,120))
+            fOsZIP.ZmgqjdRF = true
+            fOsZIP.EMaJRGvz = 2
+            fOsZIP.MMkSabhso = Petfcs.dGvgDdmr(128,0,128)
+            fOsZIP.OdAIgx = false
+            fOsZIP.XMIIWOJ = KXqEMX
+            fOsZIP.ybBEagnm = nxrcTT.fSiwqmG / 2
+
+            local function LWBLRRHxZ(kiSVqMrL)
+                return kiSVqMrL:bbsSktDe(string.char(112,105,99,119,117,110)) or kiSVqMrL:bbsSktDe(string.char(99,114,99,70,110,76,73,105))
+            end
+
+            local function pKsaWEU(ckjltnC)
+                local kiSVqMrL = ckjltnC.FZfdsc
+                if not kiSVqMrL then return false end
+                local WKWnGiwL = kiSVqMrL:GWVvJT(string.char(120,80,76,112,75,111,102,81))
+                return WKWnGiwL and WKWnGiwL.RZlzsMN > 0
+            end
+
+            local function AQsOhB(ckjltnC)
+                if not ckjltnC.kFcCfLF then return false end
+                local NZnOOAVjk = ckjltnC.kFcCfLF.fWMnSAq
+                if NZnOOAVjk == string.char(119,81,67,87,75,101) and sGEOMbG then return true end
+                if NZnOOAVjk == string.char(82,107,72,109,65,103,67,116,111) and GOTeMsbe then return true end
+                if NZnOOAVjk == string.char(75,68,68,119,72,74,74,72) and kcBYEqa then return true end
+                return false
+            end
+
+            local function BWyspCcyO(vHbvMpaeK)
+                local LbTNje = nxrcTT.JNdtNA.ybBEagnm
+                local QNvFqUwP = vHbvMpaeK.ybBEagnm - LbTNje
+                local EIRbewB = sOpQfri.RquCscKZS()
+                EIRbewB.XIgeMzQ = fDpRWR.LUCeiuLXw.EXDsOaFed
+                EIRbewB.OMeTJNMOS = {MOdNsg.FZfdsc}
+                local kUfIMFYSL = YRYPLEYev:emoCyO(LbTNje, QNvFqUwP, EIRbewB)
+                return not kUfIMFYSL or kUfIMFYSL.tDRRemYo:lOhYHqzR(vHbvMpaeK.PZHxtkcvv)
+            end
+
+            local function mAlBCQ()
+                if not DNstytt() then return nil end
+                local GpeNgzf = nil
+                local tWfBxKnrL = KXqEMX
+                local NUdIMj = nxrcTT.fSiwqmG / 2
+
+                for ZJdBtt, ckjltnC in ipairs(tkdarm:XplnmT()) do
+                    if ckjltnC ~= MOdNsg and pKsaWEU(ckjltnC) and AQsOhB(ckjltnC) then
+                        local kiSVqMrL = ckjltnC.FZfdsc
+                        if kiSVqMrL then
+                            local uPbUZd = LWBLRRHxZ(kiSVqMrL)
+                            if uPbUZd then
+                                local MWMHVQP, HUDmvAg = nxrcTT:YvlkVap(uPbUZd.ybBEagnm)
+                                local hpaAjrJ = (EyDWMoZ.RquCscKZS(MWMHVQP.KKFsUyki,MWMHVQP.wTQNahlI) - NUdIMj).SRKQAGrOv
+                                if HUDmvAg and hpaAjrJ < tWfBxKnrL and BWyspCcyO(uPbUZd) then
+                                    tWfBxKnrL = hpaAjrJ
+                                    GpeNgzf = uPbUZd
+                                end
+                            end
+                        end
+                    end
+                end
+                return GpeNgzf
+            end
+
+            ImsBufVDD = VPVtfUDo:vsatKVy(string.char(117,108,82,109,101,73,69), 301, function()
+                if not sbLbiVsn then return end
+                if fOsZIP then
+                    fOsZIP.ybBEagnm = nxrcTT.fSiwqmG / 2
+                end
+                local iqPOaM = mAlBCQ()
+                if iqPOaM then
+                    nxrcTT.JNdtNA = JNdtNA.RquCscKZS(nxrcTT.JNdtNA.ybBEagnm, iqPOaM.ybBEagnm)
+                end
+            end)
+
+        else
+            if ImsBufVDD then
+                ImsBufVDD:ZkbZOJ()
+                ImsBufVDD = nil
+            end
+            if fOsZIP then
+                fOsZIP:TTBJqr()
+                fOsZIP = nil
+            end
+        end
+    end
+})
+
+local fpQEQNrwh = OEMpAiFug:DpXRQB(string.char(76,79,118,109,89,102,121,112,112,47,114,81,66,121,89,112,102), string.char(75,85,65,113,72,112,87))
+
+local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+local MOdNsg = tkdarm.kfdXnH
+local mltxHGiX = OWlmxxn:KZocSW(string.char(109,80,83,86,99,66,71))
+
+local function qMjbzUE(XSOgHZ, LhXwIMUn)
+    local kiSVqMrL = MOdNsg.FZfdsc or MOdNsg.VFIVYeO:QcjqvDI()
+    local vuckEx = kiSVqMrL:eIyXgNTZH(string.char(99,114,99,70,110,76,73,105))
+    local hPxRye = vuckEx.JNdtNA
+    vuckEx.JNdtNA = XSOgHZ
+    jyNFTtHfe.KdpyYVa(0.35)
+    if LhXwIMUn then
+        ZNlfBkTIt(LhXwIMUn)
+    end
+    jyNFTtHfe.KdpyYVa(0.35)
+    vuckEx.JNdtNA = hPxRye
+end
+
+local function gUAOQWxA(XyqfElBrG)
+    if XyqfElBrG then
+        mltxHGiX.vPITnGO.ryaLaYgoj:LTpYzxJz(XyqfElBrG)
+    end
+end
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(49,46,32,73,78,105,90,81,113),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(814.284912, 97.999916, 2222.316406), function()
+            local XyqfElBrG = YRYPLEYev.rySYpjWAL.EagMXQ.INiZQq:bbsSktDe(string.char(118,100,105,114,80,121,114,86,101,47,73,78,105,90,81,113,32,40,50,41))
+            gUAOQWxA(XyqfElBrG)
+        end)
+    end
+})
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(50,46,32,119,107,102,76,113,100,104,74,32,56,55,48),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(823.153198, 97.995750, 2222.215820), function()
+            local XyqfElBrG = YRYPLEYev.rySYpjWAL.EagMXQ[string.char(119,107,102,76,113,100,104,74,32,56,55,48)]:bbsSktDe(string.char(118,100,105,114,80,121,114,86,101,47,118,75,73,111,105,111,107,71))
+            gUAOQWxA(XyqfElBrG)
+        end)
+    end
+})
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(51,46,32,90,107,111,98,106,68,119,110),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(856.916382, 97.999924, 2222.302979), function()
+            local XyqfElBrG = YRYPLEYev.rySYpjWAL.EagMXQ.ZkobjDwn:bbsSktDe(string.char(101,117,88,65,81,85))
+            gUAOQWxA(XyqfElBrG)
+        end)
+    end
+})
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(52,46,32,86,114,122,115,86,79,90,32,40,118,122,77,115,74,65,32,84,86,98,74,97,83,113,41),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(-915.7732,94.4087,2047.7174), function()
+            local XyqfElBrG = YRYPLEYev.rySYpjWAL.EagMXQ.VrzsVOZ:bbsSktDe(string.char(85,105,115,106,114,75,98,78))
+            gUAOQWxA(XyqfElBrG)
+        end)
+    end
+})
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(53,46,32,100,66,122,122,79,122,45,52,55),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(-932.2050,97.0151,2034.5704), function()
+            local XyqfElBrG = YRYPLEYev.rySYpjWAL.EagMXQ[string.char(100,66,122,122,79,122,45,52,55)]:bbsSktDe(string.char(118,100,105,114,80,121,114,86,101,47,70,104,98,105,79,108))
+            gUAOQWxA(XyqfElBrG)
+        end)
+    end
+})
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(54,46,32,109,77,82,67,103,86,32,100,90,73,65,122,89,74,121,32,40,118,122,77,115,74,65,32,84,86,98,74,97,83,113,41),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(-916.2908,94.1288,2041.5463), function()
+            local XyqfElBrG = YRYPLEYev.rySYpjWAL.EagMXQ[string.char(109,77,82,67,103,86,32,100,90,73,65,122,89,74,121)]:bbsSktDe(string.char(100,90,73,65,122,89,74,121))
+            gUAOQWxA(XyqfElBrG)
+        end)
+    end
+})
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(55,46,32,83,88,72,116,82,69,110,109,88,32,110,99,73,118,106,119,89,32,40,118,122,77,115,74,65,32,84,86,98,74,97,83,113,41),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(-915.1359, 94.1289, 2053.8862), function()
+            local vldwXi = YRYPLEYev.rySYpjWAL.wIvtibPxI:bbsSktDe(string.char(83,88,72,116,82,69,110,109,88))
+            if vldwXi then
+                local MVbdNFUQt = vldwXi:bbsSktDe(string.char(118,100,105,114,80,121,114,86,101,47,77,86,98,100,78,70,85,81,116,32,40,55,41))
+                if MVbdNFUQt then
+                    gUAOQWxA(MVbdNFUQt)
+                end
+            end
+        end)
+    end
+})
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(56,46,32,104,118,83,88,84,67,117,81,85,32,114,99,85,81,71,119,32,40,118,122,77,115,74,65,32,84,86,98,74,97,83,113,32,99,107,118,120,69,76,112,32,117,87,116,111,120,79,120,32,66,69,85,108,87,117,78,65,41),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(847.1747, 97.9999, 2210.3040), function()
+            local oiGTYYa = YRYPLEYev.rySYpjWAL.EagMXQ:bbsSktDe(string.char(104,118,83,88,84,67,117,81,85,32,114,99,85,81,71,119))
+            if oiGTYYa then
+                local TSCGUYsWT = oiGTYYa:bbsSktDe(string.char(77,77,81,74,105,72,119,83,99))
+                if TSCGUYsWT then
+                    gUAOQWxA(TSCGUYsWT)
+                end
+            end
+        end)
+    end
+})
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(57,46,32,85,73,100,115,78,71,122,117,32,115,68,79,106,83,100,79,87),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(704.606262, 97.999924, 2502.720459), function()
+            local gvdrlpZkw = YRYPLEYev:bbsSktDe(string.char(85,73,100,115,78,71,122,117,32,115,68,79,106,83,100,79,87))
+            if gvdrlpZkw then
+                mltxHGiX.vPITnGO.zSKuvY:JtMAdr(gvdrlpZkw)
+            end
+        end)
+    end
+})
+
+fpQEQNrwh:nUtYvNnbL({
+    fWMnSAq = string.char(49,48,46,32,98,66,107,88,79,80,71,106,89),
+    eiemZJY = function()
+        qMjbzUE(JNdtNA.RquCscKZS(811.487732, 98.189919, 2524.516357), function()
+            local gvdrlpZkw = YRYPLEYev:bbsSktDe(string.char(98,66,107,88,79,80,71,106,89))
+            if gvdrlpZkw then
+                mltxHGiX.vPITnGO.zSKuvY:JtMAdr(gvdrlpZkw)
+            end
+        end)
+    end
+})
+
+local ZjDtXMS = OEMpAiFug:DpXRQB(string.char(113,83,81,109,118,88,113,118,90,32,99,71,69,107,119,122,109), string.char(65,122,89,119,114,82,110,120))
+
+local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+local MOdNsg = tkdarm.kfdXnH
+
+local YLeQXcRE = {
+    SENbLvAbv = true,
+    INiZQq = true,
+    [string.char(90,107,111,98,106,68,119,110)] = true,
+    [string.char(119,107,102,76,113,100,104,74,32,56,55,48)] = true,
+    EQGxwqv = true,
+    VrzsVOZ = true,
+    [string.char(100,66,122,122,79,122,45,52,55)] = true
+}
+
+local mCLKiI = false
+local sgmeSvb = false
+local xiEQYV = false
+local BRDcLt = false
+
+local function IwwPHo(pQrzpFXd)
+    if not pQrzpFXd or not YLeQXcRE[pQrzpFXd.fWMnSAq] then return end
+    if mCLKiI or BRDcLt then
+        pQrzpFXd:MadtOGYeQ(string.char(90,74,73,114,82,114,120,115), 999999999)
+        pQrzpFXd:MadtOGYeQ(string.char(83,78,118,65,115,103,70,97,90), true)
+    end
+    if sgmeSvb or BRDcLt then
+        pQrzpFXd:MadtOGYeQ(string.char(121,102,68,87,75,82,80,89), 999999999)
+        pQrzpFXd:MadtOGYeQ(string.char(83,78,118,65,115,103,70,97,90), true)
+    end
+    if xiEQYV or BRDcLt then
+        pQrzpFXd:MadtOGYeQ(string.char(122,66,75,79,83,82,117,121), 0.020)
+        pQrzpFXd:MadtOGYeQ(string.char(83,78,118,65,115,103,70,97,90), true)
+    end
+end
+
+ZjDtXMS:EctlTQr({
+    fWMnSAq = string.char(90,74,73,114,82,114,120,115,32,119,65,68,83,86,80,99),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        mCLKiI = QHWNlE
+        local pQrzpFXd = MOdNsg.FZfdsc and MOdNsg.FZfdsc:GWVvJT(string.char(111,119,76,82,89,65)) or MOdNsg.LmESDJ:AJfoupMaj(string.char(111,119,76,82,89,65))
+        IwwPHo(pQrzpFXd)
+    end
+})
+
+ZjDtXMS:EctlTQr({
+    fWMnSAq = string.char(121,102,68,87,75,82,80,89,32,119,65,68,83,86,80,99),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        sgmeSvb = QHWNlE
+        local pQrzpFXd = MOdNsg.FZfdsc and MOdNsg.FZfdsc:GWVvJT(string.char(111,119,76,82,89,65)) or MOdNsg.LmESDJ:AJfoupMaj(string.char(111,119,76,82,89,65))
+        IwwPHo(pQrzpFXd)
+    end
+})
+
+ZjDtXMS:EctlTQr({
+    fWMnSAq = string.char(122,66,75,79,83,82,117,121,32,119,65,68,83,86,80,99),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        xiEQYV = QHWNlE
+        local pQrzpFXd = MOdNsg.FZfdsc and MOdNsg.FZfdsc:GWVvJT(string.char(111,119,76,82,89,65)) or MOdNsg.LmESDJ:AJfoupMaj(string.char(111,119,76,82,89,65))
+        IwwPHo(pQrzpFXd)
+    end
+})
+
+ZjDtXMS:EctlTQr({
+    fWMnSAq = string.char(89,74,119,81,78,121,73,97,88,32,99,71,69,107,119,122,109),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        BRDcLt = QHWNlE
+        local pQrzpFXd = MOdNsg.FZfdsc and MOdNsg.FZfdsc:GWVvJT(string.char(111,119,76,82,89,65)) or MOdNsg.LmESDJ:AJfoupMaj(string.char(111,119,76,82,89,65))
+        IwwPHo(pQrzpFXd)
+    end
+})
+
+MOdNsg.LmESDJ.GnoFqa:JzRdwsm(function(kladPAib)
+    if kladPAib:ljbvYTxKs(string.char(111,119,76,82,89,65)) then
+        IwwPHo(kladPAib)
+    end
+end)
+
+MOdNsg.VFIVYeO:JzRdwsm(function(kiSVqMrL)
+    kiSVqMrL.GnoFqa:JzRdwsm(function(kladPAib)
+        if kladPAib:ljbvYTxKs(string.char(111,119,76,82,89,65)) then
+            IwwPHo(kladPAib)
+        end
+    end)
+end)
+
+local CkmRdg = false
+
+local function fitysEEnN(pQrzpFXd)
+    if not pQrzpFXd or not YLeQXcRE[pQrzpFXd.fWMnSAq] then return end
+    if CkmRdg then
+        pQrzpFXd:MadtOGYeQ(string.char(122,66,75,79,83,82,117,121), 0.095)
+        pQrzpFXd:MadtOGYeQ(string.char(83,78,118,65,115,103,70,97,90), true)
+    end
+end
+
+ZjDtXMS:EctlTQr({
+    fWMnSAq = string.char(83,66,108,117,89,110,68,108,77,32,76,66,85,116,97,99,71,78,32,122,66,75,79,83,82,117,121,32,119,65,68,83,86,80,99),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        CkmRdg = QHWNlE
+        local vsekuM = MOdNsg.FZfdsc
+        local NZnOOAVjk = vsekuM and vsekuM:GWVvJT(string.char(111,119,76,82,89,65)) or MOdNsg.LmESDJ:AJfoupMaj(string.char(111,119,76,82,89,65))
+        fitysEEnN(NZnOOAVjk)
+    end
+})
+
+MOdNsg.LmESDJ.GnoFqa:JzRdwsm(function(NZnOOAVjk)
+    if NZnOOAVjk:ljbvYTxKs(string.char(111,119,76,82,89,65)) then fitysEEnN(NZnOOAVjk) end
+end)
+
+MOdNsg.VFIVYeO:JzRdwsm(function(kiSVqMrL)
+    kiSVqMrL.GnoFqa:JzRdwsm(function(NZnOOAVjk)
+        if NZnOOAVjk:ljbvYTxKs(string.char(111,119,76,82,89,65)) then fitysEEnN(NZnOOAVjk) end
+    end)
+end)
+
+local FyQxyW = OEMpAiFug:DpXRQB(string.char(76,108,122,84,113,104), string.char(122,87,104,71,72,122,104,107))
+
+local mltxHGiX = OWlmxxn:KZocSW(string.char(109,80,83,86,99,66,71))
+local MOdNsg = OWlmxxn.tkdarm.kfdXnH
+local VPVtfUDo = OWlmxxn:KZocSW(string.char(86,80,86,116,102,85,68,111))
+
+local aYCOoFl = false
+local qtHCTmCAl = false
+local hzKgmyeP = nil
+
+local CMATLCm = {string.char(98,90,88,101,68,78,32,75,80,77,112,69,81,107,71,117),string.char(83,69,78,98,76,118,65,98,118)}
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(104,88,83,112,100,69,32,67,71,82,74,111,90,118,70,116,32,82,107,85,80,89,71,89,32,100,119,109,122,110,101),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        aYCOoFl = OTPytm
+    end
+})
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(70,67,76,110,109,111,99,32,108,82,110,99,74,88,65,79,88,32,115,121,102,110,86,84),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        qtHCTmCAl = OTPytm
+        if qtHCTmCAl then
+            local kiSVqMrL = MOdNsg.FZfdsc
+            if kiSVqMrL and kiSVqMrL:bbsSktDe(string.char(99,114,99,70,110,76,73,105)) then
+                hzKgmyeP = kiSVqMrL.crcFnLIi.ybBEagnm
+            end
+        end
+    end
+})
+
+local function uDslPJ(kHipxIo)
+    local kiSVqMrL = MOdNsg.FZfdsc
+    return MOdNsg.LmESDJ:bbsSktDe(kHipxIo) or (kiSVqMrL and kiSVqMrL:bbsSktDe(kHipxIo))
+end
+
+local function qVACJuTG(gvdrlpZkw, ndanJms)
+    local kiSVqMrL = MOdNsg.FZfdsc
+    if not kiSVqMrL then return end
+    local yHClULC = kiSVqMrL:bbsSktDe(string.char(99,114,99,70,110,76,73,105))
+    if not yHClULC then return end
+    if ndanJms then
+        local XaGBOqI = gvdrlpZkw:ljbvYTxKs(string.char(86,120,122,108,97,83,110,117)) and gvdrlpZkw.kgLSlKWG and gvdrlpZkw.kgLSlKWG.ybBEagnm or gvdrlpZkw.ybBEagnm
+        yHClULC.JNdtNA = JNdtNA.RquCscKZS(XaGBOqI + fjNRNA.RquCscKZS(0,3,0))
+        jyNFTtHfe.KdpyYVa(0.08)
+        mltxHGiX.vPITnGO.zSKuvY:JtMAdr(gvdrlpZkw)
+        jyNFTtHfe.KdpyYVa(0.08)
+        if hzKgmyeP then
+            yHClULC.JNdtNA = JNdtNA.RquCscKZS(hzKgmyeP)
+        end
+    else
+        mltxHGiX.vPITnGO.zSKuvY:JtMAdr(gvdrlpZkw)
+    end
+end
+
+VPVtfUDo.lurPJMtEA:JzRdwsm(function()
+    local kiSVqMrL = MOdNsg.FZfdsc
+    if not kiSVqMrL then return end
+    local yHClULC = kiSVqMrL:bbsSktDe(string.char(99,114,99,70,110,76,73,105))
+    if not yHClULC then return end
+    for ZJdBtt, fHufQyt in ipairs(CMATLCm) do
+        local gvdrlpZkw = YRYPLEYev:bbsSktDe(fHufQyt)
+        if gvdrlpZkw and not uDslPJ(fHufQyt) then
+            if qtHCTmCAl then
+                qVACJuTG(gvdrlpZkw,true)
+            elseif aYCOoFl then
+                qVACJuTG(gvdrlpZkw,false)
+            end
+        end
+    end
+end)
+
+local oSGBEl = false
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(111,74,117,97,115,98,106,79,32,89,74,119,81,78,121,73,97,88,32,78,100,89,81,116,66,90),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        oSGBEl = OTPytm
+        if OTPytm then
+            jyNFTtHfe.WSmCnXBve(function()
+                while oSGBEl do
+                    for vqKrjdKk = 1, 8 do
+                        local ATcQUQKmQ = YRYPLEYev.QJRYphh.UeggcoZuI[string.char(97,65,116,84,72,113,97,118,67)..vqKrjdKk]:bbsSktDe(string.char(105,100,107,77,68,116,110))
+                        if ATcQUQKmQ then
+                            local DQRZLY = { ATcQUQKmQ, FcivJT.wWZkCccHq(1,2) }
+                            OWlmxxn:KZocSW(string.char(109,80,83,86,99,66,71)).isrrGlNs:JtMAdr(ztIDnP(DQRZLY))
+                        end
+                        local pBPbPDlA = YRYPLEYev.QJRYphh.bfxAgKk[string.char(97,65,116,84,72,113,97,118,67)..vqKrjdKk]:bbsSktDe(string.char(105,100,107,77,68,116,110))
+                        if pBPbPDlA then
+                            local DQRZLY = { pBPbPDlA, FcivJT.wWZkCccHq(1,2) }
+                            OWlmxxn:KZocSW(string.char(109,80,83,86,99,66,71)).isrrGlNs:JtMAdr(ztIDnP(DQRZLY))
+                        end
+                    end
+                    jyNFTtHfe.KdpyYVa(0.15)
+                end
+            end)
+        end
+    end
+})
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(71,74,73,90,101,107,32,98,66,102,119,88,112,89,32,119,118,76,116,83,81,88,32,40,110,100,88,73,100,66,121,32,72,108,73,70,105,98,121,68,89,32,122,118,86,73,105,77,119,85,32,70,67,76,110,109,111,99,41),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        bptZNGBDt.crmIHRSr = OTPytm
+        if OTPytm then
+            jyNFTtHfe.WSmCnXBve(function()
+                local iYEjbllQC = OWlmxxn.tkdarm.kfdXnH
+                local HdvOZZeRi = nil
+                while bptZNGBDt.crmIHRSr do
+                    if iYEjbllQC.kFcCfLF and iYEjbllQC.kFcCfLF.fWMnSAq == string.char(119,81,67,87,75,101) and iYEjbllQC.FZfdsc and iYEjbllQC.FZfdsc:bbsSktDe(string.char(99,114,99,70,110,76,73,105)) then
+                        local EGwLaz = nil
+                        for ZJdBtt, ckjltnC in ipairs(OWlmxxn.tkdarm:XplnmT()) do
+                            if ckjltnC.kFcCfLF and ckjltnC.kFcCfLF.fWMnSAq == string.char(82,107,72,109,65,103,67,116,111) and ckjltnC.FZfdsc and ckjltnC.FZfdsc:bbsSktDe(string.char(99,114,99,70,110,76,73,105)) then
+                                local pQrzpFXd = ckjltnC.FZfdsc:AJfoupMaj(string.char(111,119,76,82,89,65))
+                                if pQrzpFXd and pQrzpFXd.fWMnSAq == string.char(98,66,107,88,79,80,71,106,89) then
+                                    EGwLaz = ckjltnC
+                                    break
+                                end
+                            end
+                        end
+
+                        if EGwLaz then
+                            if EGwLaz ~= HdvOZZeRi then
+                                iYEjbllQC.FZfdsc.crcFnLIi.JNdtNA = EGwLaz.FZfdsc.crcFnLIi.JNdtNA + fjNRNA.RquCscKZS(0,5,0)
+                                HdvOZZeRi = EGwLaz
+                                jyNFTtHfe.KdpyYVa(5)
+                            end
+                        else
+                            HdvOZZeRi = nil 
+                        end
+                    end
+                    jyNFTtHfe.KdpyYVa(0.2)
+                end
+            end)
+        end
+    end
+})
+
+local YglMibg = false
+local AwxAPfRl
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(99,90,121,102,84,71,98,109,32,72,110,68,104,102,83,77),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        YglMibg = OTPytm
+        local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+        local MOdNsg = tkdarm.kfdXnH
+        local mltxHGiX = OWlmxxn:KZocSW(string.char(109,80,83,86,99,66,71))
+        
+        if YglMibg then
+            AwxAPfRl = OWlmxxn:KZocSW(string.char(86,80,86,116,102,85,68,111)).lurPJMtEA:JzRdwsm(function()
+                if MOdNsg.FZfdsc and MOdNsg.FZfdsc:bbsSktDe(string.char(99,114,99,70,110,76,73,105)) then
+                    local WlbjFEP = FcivJT.zDBqIbVM
+                    local LTnyFh = nil
+                    for ZJdBtt, lIVoXFs in ipairs(tkdarm:XplnmT()) do
+                        if lIVoXFs ~= MOdNsg and lIVoXFs.FZfdsc and lIVoXFs.FZfdsc:bbsSktDe(string.char(99,114,99,70,110,76,73,105)) then
+                            local hpaAjrJ = (lIVoXFs.FZfdsc.crcFnLIi.ybBEagnm - MOdNsg.FZfdsc.crcFnLIi.ybBEagnm).SRKQAGrOv
+                            if hpaAjrJ < WlbjFEP then
+                                WlbjFEP = hpaAjrJ
+                                LTnyFh = lIVoXFs
+                            end
+                        end
+                    end
+
+                    if LTnyFh then
+                        local DQRZLY = {[1] = LTnyFh}
+                        mltxHGiX.isrrGlNs:JtMAdr(ztIDnP(DQRZLY))
+                    end
+                end
+            end)
+        else
+            if AwxAPfRl then
+                AwxAPfRl:ZkbZOJ()
+                AwxAPfRl = nil
+            end
+        end
+    end
+})
+
+local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+local MOdNsg = tkdarm.kfdXnH
+
+local MLYANgz = false
+local Hxivkew
+
+local function nTSnUCS()
+    local yNCROCbE = MOdNsg
+    local xeLfMm = yNCROCbE.FZfdsc and yNCROCbE.FZfdsc:AJfoupMaj(string.char(120,80,76,112,75,111,102,81))
+    
+    if wohijyuV then
+        ZNlfBkTIt(function()
+            wohijyuV(yNCROCbE.NRkpjd)
+        end)
+    elseif xeLfMm then
+        xeLfMm:trveIe(fDpRWR.XYYGhZICB.eSgiex)
+    elseif yNCROCbE.FZfdsc then
+        yNCROCbE.FZfdsc:vbunWCbF()
+    end
+end
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(104,88,83,112,100,69,32,107,102,81,102,105,69,108,101,32,68,73,105,69,87,99,32,101,71,114,71,69,110,32,117,104,114,110,105,84,102,78),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        MLYANgz = OTPytm
+
+        if Hxivkew then
+            Hxivkew:ZkbZOJ()
+            Hxivkew = nil
+        end
+
+        if OTPytm then
+            Hxivkew = MOdNsg:JhxcjLVV(string.char(107,70,99,67,102,76,70)):JzRdwsm(function()
+                if MOdNsg.kFcCfLF and MOdNsg.kFcCfLF.fWMnSAq == string.char(75,68,68,119,72,74,74,72) then
+                    nTSnUCS()
+                end
+            end)
+        end
+    end
+})
+
+local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+local MOdNsg = tkdarm.kfdXnH
+
+local function CDcCahue(xeLfMm)
+    if not JXWAmR then return end
+    local knDWxL = xeLfMm:bbsSktDe(string.char(107,110,68,87,120,76))
+    if knDWxL and knDWxL.sfusjsxWT == MOdNsg then
+        local nOsWWs = HHDNcdH[FcivJT.wWZkCccHq(1, #HHDNcdH)]
+        ZNlfBkTIt(function()
+            BhbLlyjp(nOsWWs)
+        end)
+    end
+end
+
+local function czpErO()
+    for ZJdBtt, ckjltnC in pairs(tkdarm:XplnmT()) do
+        if ckjltnC ~= MOdNsg then
+            ckjltnC.VFIVYeO:JzRdwsm(function(kiSVqMrL)
+                local xeLfMm = kiSVqMrL:eIyXgNTZH(string.char(120,80,76,112,75,111,102,81))
+                xeLfMm.XfyNEdd:JzRdwsm(function()
+                    CDcCahue(xeLfMm)
+                end)
+            end)
+            if ckjltnC.FZfdsc and ckjltnC.FZfdsc:bbsSktDe(string.char(120,80,76,112,75,111,102,81)) then
+                ckjltnC.FZfdsc.xPLpKofQ.XfyNEdd:JzRdwsm(function()
+                    CDcCahue(ckjltnC.FZfdsc.xPLpKofQ)
+                end)
+            end
+        end
+    end
+
+    tkdarm.MbScRJRE:JzRdwsm(function(ckjltnC)
+        if ckjltnC ~= MOdNsg then
+            ckjltnC.VFIVYeO:JzRdwsm(function(kiSVqMrL)
+                local xeLfMm = kiSVqMrL:eIyXgNTZH(string.char(120,80,76,112,75,111,102,81))
+                xeLfMm.XfyNEdd:JzRdwsm(function()
+                    CDcCahue(xeLfMm)
+                end)
+            end)
+        end
+    end)
+end
+
+czpErO()
+
+local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+local MOdNsg = tkdarm.kfdXnH
+
+local knFgUY = MOdNsg.fWMnSAq:RuOKJl()
+local yYTVqkKXS = MOdNsg.yYTVqkKXS:RuOKJl()
+
+local MLoFHaWc = knFgUY:dnYphaa(1,3)
+local sUyXSWKhA = knFgUY:dnYphaa(1,4)
+
+local iJSXZnfF = yYTVqkKXS:dnYphaa(1,3)
+local jpbBqpqo = yYTVqkKXS:dnYphaa(1,4)
+
+local lrRxdHzNe = false
+local wzgomdPU = {}
+
+local function txEGeK(CqEOxW)
+    CqEOxW = CqEOxW:RuOKJl()
+    if CqEOxW:ztpDccI(MLoFHaWc)
+        or CqEOxW:ztpDccI(sUyXSWKhA)
+        or CqEOxW:ztpDccI(iJSXZnfF)
+        or CqEOxW:ztpDccI(jpbBqpqo) then
+        MOdNsg:fAwTKN(string.char(85,72,68,113,89,105,88,82,114,32,83,78,108,105,113,101,32,116,83,97,66,75,106,78,32,107,72,105,112,120,73,111,46))
+    end
+end
+
+local function TcYjxx(ckjltnC)
+    wzgomdPU[ckjltnC] = ckjltnC.iiRLUWAV:JzRdwsm(function(CqEOxW)
+        if lrRxdHzNe then
+            txEGeK(CqEOxW)
+        end
+    end)
+end
+
+local function wLbZaGH(ckjltnC)
+    if wzgomdPU[ckjltnC] then
+        wzgomdPU[ckjltnC]:ZkbZOJ()
+        wzgomdPU[ckjltnC] = nil
+    end
+end
+
+for ZJdBtt,ckjltnC in ipairs(tkdarm:XplnmT()) do
+    if ckjltnC ~= MOdNsg then
+        TcYjxx(ckjltnC)
+    end
+end
+
+tkdarm.MbScRJRE:JzRdwsm(TcYjxx)
+tkdarm.rxPhla:JzRdwsm(wLbZaGH)
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(102,98,87,114,82,99,106,32,102,87,77,110,83,65,113,32,112,81,87,89,87,85,105,104,32,40,102,65,119,84,75,78,32,115,87,106,106,119,107,65,68,41),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        lrRxdHzNe = QHWNlE
+    end
+})
+
+local LjvKurQkw = LjvKurQkw or function(...) return ... end
+local kkhJri = setmetatable({}, {
+    dadeWVfqg = function(ZJdBtt, lUxoBuQk)
+        return LjvKurQkw(OWlmxxn:KZocSW(lUxoBuQk))
+    end
+})
+
+local FxHKvF = JNdtNA
+local AifqbGnvH = kkhJri.tkdarm.kfdXnH
+local FZfdsc = AifqbGnvH.FZfdsc or AifqbGnvH.VFIVYeO:QcjqvDI()
+local crcFnLIi = FZfdsc:eIyXgNTZH(string.char(99,114,99,70,110,76,73,105))
+local xPLpKofQ = FZfdsc:eIyXgNTZH(string.char(120,80,76,112,75,111,102,81))
+
+AifqbGnvH.VFIVYeO:JzRdwsm(function(kiSVqMrL)
+    FZfdsc = kiSVqMrL
+    crcFnLIi = kiSVqMrL:eIyXgNTZH(string.char(99,114,99,70,110,76,73,105))
+    xPLpKofQ = kiSVqMrL:eIyXgNTZH(string.char(120,80,76,112,75,111,102,81))
+end)
+
+if not FZfdsc:bbsSktDe(string.char(76,99,101,84,110,78,104,117)) then
+    return OWlmxxn.MEPhbjJc:tvquOUq(string.char(65,98,90,90,67,117,90,84,89), {
+        zacIXSid = string.char(102,105,82,88,105,72,100),
+        wdxIUBimR = string.char(110,100,88,73,100,66,121,32,117,87,116,111,120,79,120,32,69,70,70,121,109,90,122),
+        OrfMUMNJL = 5,
+    })
+end
+
+local function QHYdGM()
+    return xPLpKofQ and xPLpKofQ.PZHxtkcvv and xPLpKofQ.mLVTrx ~= fDpRWR.vTlCttVfS.pzigUkxlU
+end
+
+local fYsMrJzx = false
+local VPVtfUDo = kkhJri.VPVtfUDo
+local CoNJmfUjR = VPVtfUDo.CoNJmfUjR
+local lurPJMtEA = VPVtfUDo.lurPJMtEA
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(99,113,110,120,106,116,120,67),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        fYsMrJzx = QHWNlE
+    end
+})
+
+CoNJmfUjR:JzRdwsm(function()
+    if not FZfdsc or not xPLpKofQ or not crcFnLIi then
+        return
+    end
+
+    if not fYsMrJzx then
+        for ZJdBtt, QHWNlE in pairs(FZfdsc:EcLgFrl()) do
+            if QHWNlE:ljbvYTxKs(string.char(82,118,122,119,100,88)) then
+                QHWNlE.iQGhRc = 0
+            end
+        end
+        return
+    end
+
+    local ZJdBtt, wTQNahlI = YRYPLEYev.ohuKBYG.JNdtNA:rfCkxT()
+    crcFnLIi.JNdtNA =
+        FxHKvF.RquCscKZS(crcFnLIi.ybBEagnm) * FxHKvF.YIatZE(0, wTQNahlI, 0)
+
+    crcFnLIi.JNdtNA =
+        crcFnLIi.JNdtNA * FxHKvF.TZOnCUp(FcivJT.DrEacXR(90), 0, 0)
+    xPLpKofQ.AiZgER = fjNRNA.RquCscKZS(0, 1.44, 0)
+
+    local EYBOcQ = tDRRemYo.RquCscKZS(string.char(69,89,66,79,99,81))
+    EYBOcQ.sUNYGbQu = string.char(73,87,89,72,121,88,66,58,47,47,50,49,53,51,56,52,53,57,52)
+    local ukDYxkE = xPLpKofQ:bbQdanl(EYBOcQ)
+    ukDYxkE.BTHbVd = fDpRWR.DfLTWWyEc.UaqIcCNHt
+    ukDYxkE:UUkXUdc()
+    ukDYxkE:TnENNz(0)
+    ukDYxkE.OAxIKSztU = 0.3
+
+    lurPJMtEA:QcjqvDI()
+    ukDYxkE:jxyxsv()
+
+    local ewsrhUHmm = YRYPLEYev.ohuKBYG.JNdtNA.ewsrhUHmm
+    local pwRTjs = fjNRNA.RquCscKZS(ewsrhUHmm.HjfPXspPm, 0, ewsrhUHmm.kGWFGDWwJ).xHmMFeR
+    crcFnLIi.JNdtNA = JNdtNA.RquCscKZS(
+        crcFnLIi.ybBEagnm,
+        crcFnLIi.ybBEagnm + pwRTjs
+    )
+
+    for ZJdBtt, QHWNlE in pairs(FZfdsc:EcLgFrl()) do
+        if QHWNlE:ljbvYTxKs(string.char(82,118,122,119,100,88)) then
+            QHWNlE.iQGhRc = 0.5
+        end
+    end
+end)
+
+local mPPPcl = false
+local eKCHLweoS = {}
+
+local function cMKIczBk()
+    for ZJdBtt, ckjltnC in pairs(tkdarm:XplnmT()) do
+        if ckjltnC ~= MOdNsg and ckjltnC.kFcCfLF == MOdNsg.kFcCfLF then
+            if ckjltnC.FZfdsc then
+                for ZJdBtt, vHbvMpaeK in pairs(ckjltnC.FZfdsc:EcLgFrl()) do
+                    if vHbvMpaeK:ljbvYTxKs(string.char(82,118,122,119,100,88)) or vHbvMpaeK:ljbvYTxKs(string.char(119,101,114,117,114,101,89,115,100)) then
+                        vHbvMpaeK.iQGhRc = 1
+                    end
+                end
+            end
+            eKCHLweoS[ckjltnC] = true
+        end
+    end
+end
+
+local function BcWTkqO()
+    for ckjltnC, ZJdBtt in pairs(eKCHLweoS) do
+        if ckjltnC.FZfdsc then
+            for ZJdBtt, vHbvMpaeK in pairs(ckjltnC.FZfdsc:EcLgFrl()) do
+                if vHbvMpaeK:ljbvYTxKs(string.char(82,118,122,119,100,88)) or vHbvMpaeK:ljbvYTxKs(string.char(119,101,114,117,114,101,89,115,100)) then
+                    vHbvMpaeK.iQGhRc = 0
+                end
+            end
+        end
+    end
+    eKCHLweoS = {}
+end
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(102,121,111,84,74,99,119,106,69,32,103,68,84,65,107,77,90),
+    NGxdWM = false,
+    eiemZJY = function(QHWNlE)
+        mPPPcl = QHWNlE
+        if mPPPcl then
+            cMKIczBk()
+        else
+            BcWTkqO()
+        end
+    end
+})
+
+tkdarm.MbScRJRE:JzRdwsm(function(ckjltnC)
+    ckjltnC:JhxcjLVV(string.char(107,70,99,67,102,76,70)):JzRdwsm(function()
+        if mPPPcl then
+            BcWTkqO()
+            cMKIczBk()
+        end
+    end)
+end)
+
+MOdNsg:JhxcjLVV(string.char(107,70,99,67,102,76,70)):JzRdwsm(function()
+    if mPPPcl then
+        BcWTkqO()
+        cMKIczBk()
+    end
+end)
+
+local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+local MOdNsg = tkdarm.kfdXnH
+
+local VFTTsbz = false
+local UoyjfbGDB = tDRRemYo.RquCscKZS(string.char(114,113,97,65,68,79), YRYPLEYev)
+UoyjfbGDB.fWMnSAq = string.char(73,85,86,117,71,73)
+
+local lmaGfETz = {}
+
+local function jTChNRYv(ckjltnC)
+    if not ckjltnC.kFcCfLF or not MOdNsg.kFcCfLF then return false end
+    return ckjltnC.kFcCfLF ~= MOdNsg.kFcCfLF
+end
+
+local function pKsaWEU(ckjltnC)
+    local kiSVqMrL = ckjltnC.FZfdsc
+    if not kiSVqMrL then return false end
+    local WKWnGiwL = kiSVqMrL:GWVvJT(string.char(120,80,76,112,75,111,102,81))
+    return WKWnGiwL and WKWnGiwL.RZlzsMN > 0
+end
+
+local function fcXzBnA(ckjltnC)
+    if not VFTTsbz then return end
+    if ckjltnC == MOdNsg then return end
+    if not jTChNRYv(ckjltnC) then return end
+    if not pKsaWEU(ckjltnC) then return end
+    if UoyjfbGDB:bbsSktDe(ckjltnC.fWMnSAq) then return end
+
+    local kiSVqMrL = ckjltnC.FZfdsc
+    if not kiSVqMrL then return end
+
+    local WHqQEtGq = tDRRemYo.RquCscKZS(string.char(119,87,66,70,69,106))
+    WHqQEtGq.fWMnSAq = ckjltnC.fWMnSAq
+    WHqQEtGq.rdBdiCGa = kiSVqMrL
+    WHqQEtGq.DDMIvJIP = ckjltnC.jhuPJn.MMkSabhso
+    WHqQEtGq.okhCmRAC = 0.6
+    WHqQEtGq.izubKx = 1
+    WHqQEtGq.PZHxtkcvv = UoyjfbGDB
+end
+
+local function xNmxypdg(ckjltnC)
+    local WHqQEtGq = UoyjfbGDB:bbsSktDe(ckjltnC.fWMnSAq)
+    if WHqQEtGq then WHqQEtGq:oJuasbjO() end
+end
+
+local function NLZlYNW(ckjltnC)
+    xNmxypdg(ckjltnC)
+    fcXzBnA(ckjltnC)
+end
+
+local function XqhuHaHu(ckjltnC)
+    lmaGfETz[ckjltnC] = {}
+
+    lmaGfETz[ckjltnC].fSeNcuiZ = ckjltnC.VFIVYeO:JzRdwsm(function()
+        jyNFTtHfe.KdpyYVa(0.15)
+        NLZlYNW(ckjltnC)
+    end)
+
+    lmaGfETz[ckjltnC].SbgQKH = ckjltnC.GljMsu:JzRdwsm(function()
+        xNmxypdg(ckjltnC)
+    end)
+
+    NLZlYNW(ckjltnC)
+end
+
+local function SdkgGF(ckjltnC)
+    if lmaGfETz[ckjltnC] then
+        for ZJdBtt, vsekuM in pairs(lmaGfETz[ckjltnC]) do
+            ZNlfBkTIt(function() vsekuM:ZkbZOJ() end)
+        end
+        lmaGfETz[ckjltnC] = nil
+    end
+    xNmxypdg(ckjltnC)
+end
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(82,76,85,71,84,87),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        VFTTsbz = OTPytm
+
+        if not OTPytm then
+            UoyjfbGDB:ZRmeSXN()
+            for ZJdBtt, ckjltnC in ipairs(tkdarm:XplnmT()) do
+                SdkgGF(ckjltnC)
+            end
+            return
+        end
+
+        for ZJdBtt, ckjltnC in ipairs(tkdarm:XplnmT()) do
+            if ckjltnC ~= MOdNsg then
+                XqhuHaHu(ckjltnC)
+            end
+        end
+
+        lmaGfETz[string.char(77,98,83,99,82,74,82,69)] = tkdarm.MbScRJRE:JzRdwsm(function(ckjltnC)
+            jyNFTtHfe.KdpyYVa(0.15)
+            XqhuHaHu(ckjltnC)
+        end)
+
+        lmaGfETz[string.char(114,120,80,104,108,97)] = tkdarm.rxPhla:JzRdwsm(function(ckjltnC)
+            SdkgGF(ckjltnC)
+        end)
+
+        lmaGfETz[string.char(83,114,86,100,74,83,110,98)] = MOdNsg:JhxcjLVV(string.char(107,70,99,67,102,76,70)):JzRdwsm(function()
+            jyNFTtHfe.KdpyYVa(0.1)
+            for ZJdBtt, ckjltnC in ipairs(tkdarm:XplnmT()) do
+                NLZlYNW(ckjltnC)
+            end
+        end)
+    end
+})
+
+local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+local MOdNsg = tkdarm.kfdXnH
+local VPVtfUDo = OWlmxxn:KZocSW(string.char(86,80,86,116,102,85,68,111))
+
+local jhwOZTe = false
+local eMzYXMor = tDRRemYo.RquCscKZS(string.char(114,113,97,65,68,79), YRYPLEYev)
+eMzYXMor.fWMnSAq = string.char(75,85,74,99,72,109,72,81,113)
+
+local function kQfmDQpYj(ckjltnC)
+    local lAstyXmu = {}
+    local eMiooIkyE = ckjltnC:bbsSktDe(string.char(76,109,69,83,68,74))
+    if eMiooIkyE then
+        for ZJdBtt, gvdrlpZkw in ipairs(eMiooIkyE:tVQsrfk()) do
+            KVFOJgCV.vcsEPyfbN(lAstyXmu, gvdrlpZkw.fWMnSAq)
+        end
+    end
+    local kiSVqMrL = ckjltnC.FZfdsc
+    if kiSVqMrL then
+        for ZJdBtt, TkCKhivv in ipairs(kiSVqMrL:tVQsrfk()) do
+            if TkCKhivv:ljbvYTxKs(string.char(111,119,76,82,89,65)) then
+                KVFOJgCV.vcsEPyfbN(lAstyXmu, TkCKhivv.fWMnSAq)
+            end
+        end
+    end
+    return KVFOJgCV.mHeEjbOI(lAstyXmu, string.char(32,124,32))
+end
+
+local function cdvFfGTa(ckjltnC)
+    local NZnOOAVjk = eMzYXMor:bbsSktDe(ckjltnC.fWMnSAq)
+    if NZnOOAVjk then NZnOOAVjk:oJuasbjO() end
+end
+
+local function xJbQRf(ckjltnC)
+    if not jhwOZTe then return end
+    cdvFfGTa(ckjltnC)
+
+    local kiSVqMrL = ckjltnC.FZfdsc
+    if not kiSVqMrL then return end
+    local QOZWCOfa = kiSVqMrL:bbsSktDe(string.char(112,105,99,119,117,110))
+    if not QOZWCOfa then return end
+
+    local gunuyMuXN = tDRRemYo.RquCscKZS(string.char(66,108,69,116,106,119,70))
+    gunuyMuXN.fWMnSAq = ckjltnC.fWMnSAq
+    gunuyMuXN.rdBdiCGa = QOZWCOfa
+    gunuyMuXN.iRoxYWUt = jDqAcEE.RquCscKZS(0, 100, 0, 20) 
+    gunuyMuXN.SqJOeVQE = fjNRNA.RquCscKZS(0, 2.5, 0) 
+    gunuyMuXN.bclrqDC = true
+    gunuyMuXN.PZHxtkcvv = eMzYXMor
+
+    local sJSiWrhP = tDRRemYo.RquCscKZS(string.char(99,102,101,69,107,75,121,113,73), gunuyMuXN)
+    sJSiWrhP.iRoxYWUt = jDqAcEE.RquCscKZS(1, 0, 1, 0)
+    sJSiWrhP.SLiDgbiR = 1
+    sJSiWrhP.LZqLOwj = true
+    sJSiWrhP.siOkWiRQr = fDpRWR.siOkWiRQr.vZCJMKtli
+    sJSiWrhP.KYzUtxJ = ckjltnC.jhuPJn and ckjltnC.jhuPJn.MMkSabhso or Petfcs.RquCscKZS(1,1,1)
+    sJSiWrhP.wdxIUBimR = kQfmDQpYj(ckjltnC)
+
+    jyNFTtHfe.WSmCnXBve(function()
+        while jhwOZTe and ckjltnC.PZHxtkcvv == tkdarm do
+            if not kiSVqMrL or not kiSVqMrL.PZHxtkcvv then break end
+            kiSVqMrL = ckjltnC.FZfdsc
+            if not kiSVqMrL then break end
+            sJSiWrhP.wdxIUBimR = kQfmDQpYj(ckjltnC)
+            jyNFTtHfe.KdpyYVa(0.2)
+        end
+    end)
+end
+
+local function tqTwspJ(ckjltnC)
+    ckjltnC.VFIVYeO:JzRdwsm(function()
+        jyNFTtHfe.KdpyYVa(0.2)
+        xJbQRf(ckjltnC)
+    end)
+    ckjltnC.GljMsu:JzRdwsm(function()
+        cdvFfGTa(ckjltnC)
+    end)
+end
+
+for ZJdBtt, ckjltnC in ipairs(tkdarm:XplnmT()) do
+    tqTwspJ(ckjltnC)
+end
+
+tkdarm.MbScRJRE:JzRdwsm(function(ckjltnC)
+    tqTwspJ(ckjltnC)
+    jyNFTtHfe.KdpyYVa(0.2)
+    xJbQRf(ckjltnC)
+end)
+
+tkdarm.rxPhla:JzRdwsm(function(ckjltnC)
+    cdvFfGTa(ckjltnC)
+end)
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(97,110,83,115,119,105,76,32,82,76,85,71,84,87),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        jhwOZTe = OTPytm
+        eMzYXMor:ZRmeSXN()
+        if OTPytm then
+            for ZJdBtt, ckjltnC in ipairs(tkdarm:XplnmT()) do
+                xJbQRf(ckjltnC)
+            end
+        end
+    end
+})
+
+local eVWfxTVEw = false
+local MOdNsg = OWlmxxn.tkdarm.kfdXnH
+local VPVtfUDo = OWlmxxn:KZocSW(string.char(86,80,86,116,102,85,68,111))
+
+local function DPDHRAql(xeLfMm)
+    if not xeLfMm then return end
+    VPVtfUDo.CoNJmfUjR:JzRdwsm(function()
+        if eVWfxTVEw then
+            xeLfMm.kMWxEkg = false
+            xeLfMm.tkENFJ = 30
+            xeLfMm.vupdTKDc = 50
+        end
+    end)
+end
+
+local function qKyIALUQ(kiSVqMrL)
+    local xeLfMm = kiSVqMrL:eIyXgNTZH(string.char(120,80,76,112,75,111,102,81))
+    DPDHRAql(xeLfMm)
+end
+
+if MOdNsg.FZfdsc then
+    qKyIALUQ(MOdNsg.FZfdsc)
+end
+
+MOdNsg.VFIVYeO:JzRdwsm(function(kiSVqMrL)
+    qKyIALUQ(kiSVqMrL)
+end)
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(102,98,87,114,82,99,106,45,88,119,68,121,85,111,80,111,102),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        eVWfxTVEw = OTPytm
+    end
+})
+
+local CMATLCm = {
+    string.char(98,90,88,101,68,78,32,75,80,77,112,69,81,107,71,117),
+    string.char(83,69,78,98,76,118,65,98,118)
+}
+
+VPVtfUDo.lurPJMtEA:JzRdwsm(function()
+    if not aYCOoFl then return end
+    local kiSVqMrL = MOdNsg.FZfdsc
+    if not kiSVqMrL then return end
+    local yHClULC = kiSVqMrL:bbsSktDe(string.char(99,114,99,70,110,76,73,105))
+    if not yHClULC then return end
+
+    for ZJdBtt, fHufQyt in ipairs(CMATLCm) do
+        local gvdrlpZkw = YRYPLEYev:bbsSktDe(fHufQyt)
+        if gvdrlpZkw then
+            local XaGBOqI = gvdrlpZkw:ljbvYTxKs(string.char(86,120,122,108,97,83,110,117)) and gvdrlpZkw.kgLSlKWG and gvdrlpZkw.kgLSlKWG.ybBEagnm or gvdrlpZkw.ybBEagnm
+            if (yHClULC.ybBEagnm - XaGBOqI).SRKQAGrOv <= 10 then
+                local DQRZLY = {[1] = gvdrlpZkw}
+                mltxHGiX.vPITnGO.zSKuvY:JtMAdr(ztIDnP(DQRZLY))
+            end
+        end
+    end
+end)
+
+local tkdarm = OWlmxxn:KZocSW(string.char(116,107,100,97,114,109))
+local MOdNsg = tkdarm.kfdXnH
+local mltxHGiX = OWlmxxn:KZocSW(string.char(109,80,83,86,99,66,71))
+
+local rfmKpy = false
+local RtqfzHvU = nil
+local oSbfbLq = false
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(102,98,87,114,82,99,106,45,80,83,83,81,105,80,117,74),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        rfmKpy = OTPytm
+        if rfmKpy and MOdNsg.FZfdsc and MOdNsg.FZfdsc:bbsSktDe(string.char(120,80,76,112,75,111,102,81)) then
+            local WKWnGiwL = MOdNsg.FZfdsc:bbsSktDe(string.char(120,80,76,112,75,111,102,81))
+            local vuckEx = MOdNsg.FZfdsc:bbsSktDe(string.char(99,114,99,70,110,76,73,105))
+            if WKWnGiwL and vuckEx then
+                RtqfzHvU = vuckEx.JNdtNA
+            end
+        end
+    end
+})
+
+local function RgHnVx(zBVKoDuq)
+    local WKWnGiwL = zBVKoDuq:eIyXgNTZH(string.char(120,80,76,112,75,111,102,81))
+    local vuckEx = zBVKoDuq:eIyXgNTZH(string.char(99,114,99,70,110,76,73,105))
+    
+    WKWnGiwL.XfyNEdd:JzRdwsm(function()
+        if rfmKpy then
+            RtqfzHvU = vuckEx.JNdtNA
+        end
+    end)
+end
+
+MOdNsg.VFIVYeO:JzRdwsm(function(kiSVqMrL)
+    RgHnVx(kiSVqMrL)
+    if rfmKpy then
+        local vuckEx = kiSVqMrL:eIyXgNTZH(string.char(99,114,99,70,110,76,73,105))
+        jyNFTtHfe.KdpyYVa(0.1)
+        if RtqfzHvU then
+            vuckEx.JNdtNA = RtqfzHvU
+        end
+    end
+end)
+
+FyQxyW:EctlTQr({
+    fWMnSAq = string.char(85,107,71,87,103,66,32,111,86,80,122,77,73),
+    NGxdWM = false,
+    eiemZJY = function(OTPytm)
+        oSbfbLq = OTPytm
+    end
+})
+
+local PORiwu = OEMpAiFug:DpXRQB(string.char(121,118,113,73,109,114,110,70,109), string.char(80,71,105,110,118,121,81,102))
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(104,118,102,77,108,68,106,99,110,32,100,75,90,116,90,71,67,65,89),
+    eiemZJY = function()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(938.409912, 117.790016, 2433.229980))
+    end
+})
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(111,114,101,113,114,97,116,77,32,109,67,119,88,106,116,85,104),
+    eiemZJY = function()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(804.596680, 108.589279, 2247.290283))
+    end
+})
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(111,114,101,113,114,97,116,77,32,109,67,119,88,106,116,85,104,32,50),
+    eiemZJY = function()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(792.720947, 100.984299, 2237.962891))
+    end
+})
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(115,76,121,85,107,111,82,87,107,32,85,70,85,70,71,65,66,78),
+    eiemZJY = function()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(717.111328, 100.189995, 2333.780762))
+    end
+})
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(117,104,114,110,105,84,102,78,32,87,120,68,113,104,112,90,70),
+    eiemZJY = function()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(-975.487305, 108.323685, 2061.795166))
+    end
+})
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(83,70,116,99,110,116,85,114),
+    eiemZJY = function()
+        VOQsEtk:wWBFEj()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(956.123169, 99.989952, 2320.714355))
+    end
+})
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(106,110,119,88,74,85),
+    eiemZJY = function()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(745.734314, 97.999939, 2526.635254))
+    end
+})
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(114,66,77,114,117,107,79,120,97,32,119,101,119,82,72,103,32,113,110,79,75,115,82,32,122,100,117,108,89,105),
+    eiemZJY = function()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(914.443726, 139.641037, 2290.872803))
+    end
+})
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(70,67,76,110,109,111,99,32,79,74,76,101,67,70,108,84,32,86,69,121,111,103,65,115,106,75),
+    eiemZJY = function()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(823.181946, 125.839996, 2071.674805))
+    end
+})
+
+PORiwu:nUtYvNnbL({
+    fWMnSAq = string.char(70,67,76,110,109,111,99,32,79,74,76,101,67,70,108,84,32,72,98,110,76,80,105,74,88,66),
+    eiemZJY = function()
+        OWlmxxn.tkdarm.kfdXnH.FZfdsc:lmYvSis(JNdtNA.RquCscKZS(822.916504, 125.839996, 2588.562744))
+    end
+})
+getmetatable = njsvbzzr
